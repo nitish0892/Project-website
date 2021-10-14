@@ -1,0 +1,119 @@
+body{
+
+	margin: 0;
+	padding: 0;
+}
+
+.nav{
+
+	background-color: dodgerblue;
+	border-radius: 0 0 0 30px;
+	text-align: center;
+	color: white;
+	font-size: 1.7rem;
+	padding: 7px;
+	position: sticky;
+	top: 0;
+}
+
+.brand{
+	font-weight: bolder;
+}
+
+.list{
+	padding: 0;
+}
+
+.list-items{
+
+	list-style: none;
+	display: inline-block;
+	padding:  0 5rem;
+}
+
+.link{
+
+	text-decoration: none;
+	color: white;
+
+}
+
+.active{
+	font-weight: bolder;
+	padding: 0.6rem;
+}
+
+.banner{
+	text-align: center;
+}
+
+.banner-img{
+
+	display: block;
+	margin: auto;
+	max-width: 500px;
+}
+
+.inverted-text{
+	color: dodgerblue;
+}
+
+.inverted-text2{
+	color:darkviolet;
+}
+
+.inverted-text3{
+	color:darkorange;
+}
+
+.section{
+	background-color: lightgray;
+}
+
+.container{
+	max-width: 600px;
+	margin: auto;
+	padding: 2rem;
+	font-size: 1.5rem;
+}
+
+
+.primary{
+	background-color: dodgerblue;
+	border-radius: 5px;
+	font-size: 1.3rem;
+	padding: 0.8rem;
+	display: inline;
+}
+
+.secondary{
+	color: dodgerblue;
+	border:solid 3px dodgerblue;
+	border-radius: 5px;
+	font-size: 1.3rem;
+	padding: 0.7rem;
+}
+
+.secondary-blog{
+ color: darkorange;
+ border:solid 3px darkorange;
+}
+
+.footer{
+	margin-top: 20px;
+	background-color: dodgerblue;
+	border-radius: 0 30px 0 0;
+	text-align: center;
+	color: white;
+	font-size: 1.7rem;
+	padding: 7px;
+}
+
+.project-color{
+	background-color: darkviolet;
+}
+
+.blog-color{
+	background-color: darkorange;
+}
+
